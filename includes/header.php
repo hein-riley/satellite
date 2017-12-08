@@ -22,4 +22,4 @@
 	
 
 
-<?php include('main-nav.php'); ?>
+<?php include('includes/main-nav.php'); ?>
