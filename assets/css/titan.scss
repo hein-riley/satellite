@@ -1,0 +1,206 @@
+/*
+* RANDOM
+*/
+.parallax-content{
+	background-repeat: no-repeat;
+	height: 550px;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+
+
+
+
+/*
+* FONTS
+*/
+
+/* - Headers - */
+.headerOne{
+	font-size: $header-size-one;
+}
+.headerTwo{
+	font-size: $header-size-two;
+}
+
+.headerThree{
+	font-size: $header-size-three;
+}
+
+/* - Text Size - */
+.textOne{
+	font-size: $textOne;
+}
+.textTwo{
+	font-size: $textTwo; 
+}
+.textThree{
+	font-size: $textThree;
+}
+
+
+
+/*
+* COLORS
+*/
+
+.colorOne-bg{
+	background-color: $colorOne;
+}    
+.colorOne{
+	color: $colorOne;
+}    
+.colorTwo-bg{
+	ackground-color: $colorTwo;
+}
+.colorTwo{
+	color: $colorTwo;
+}
+.colorThree-bg{
+	background-color: $colorThree;
+}
+.colorThree{
+	color: $colorThree;
+}
+.colorFour-bg{
+	background-color: $colorFour;
+}
+.colorFour{
+	color: $colorFour;
+}
+.colorFive-bg{
+	background-color: $colorFive;
+}
+.colorFive{
+	color: $colorFive;
+}
+
+
+.hueOne-bg{
+	background-color: $black;
+}
+.hueOne{
+	color: $black;
+}
+
+.hueTwo-bg{
+	background-color: $gray;
+}
+.hueTwo{
+	color: $gray;
+}
+
+.hueThree-bg{
+	background-color: $lightGray;
+}
+.hueThree{
+	color: $lightGray;
+}
+
+.hueFour-bg{
+	background-color: $otherGray;
+}
+.hueFour{
+	color: $otherGray;
+}
+
+.hueFive-bg{
+	background-color: $bgGray;
+}
+.hueFive{
+	color: $bgGray;
+}
+
+
+
+/* - Gradients - */
+
+.gradientOne{	
+	background: #b6d094;
+	background: -moz-linear-gradient(-45deg, #b6d094 0%, #6a2e35 100%);
+	background: -webkit-linear-gradient(-45deg, #b6d094 0%,#6a2e35 100%);
+	background: linear-gradient(135deg, #b6d094 0%,#6a2e35 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b6d094', endColorstr='#6a2e35',GradientType=1 );
+}
+
+.gradientTwo{
+	background: #e1aa7d;
+	background: -moz-linear-gradient(-45deg, #e1aa7d 0%, #6a2e35 100%);
+	background: -webkit-linear-gradient(-45deg, #e1aa7d 0%,#6a2e35 100%); 
+	background: linear-gradient(135deg, #e1aa7d 0%,#6a2e35 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1aa7d', endColorstr='#6a2e35',GradientType=1 ); 
+}
+
+.gradientThree{
+	background: #e1aa7d;
+	background: -moz-linear-gradient(-45deg, #e1aa7d 0%, #b6d094 100%); 
+	background: -webkit-linear-gradient(-45deg, #e1aa7d 0%,#b6d094 100%);
+	background: linear-gradient(135deg, #e1aa7d 0%,#b6d094 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1aa7d', endColorstr='#b6d094',GradientType=1 );
+}
+
+.gradientFour{
+	background: #6a2e35;
+	background: -moz-linear-gradient(-45deg, #6a2e35 28%, #2e2836 100%);
+	background: -webkit-linear-gradient(-45deg, #6a2e35 28%,#2e2836 100%);
+	background: linear-gradient(135deg, #6a2e35 28%,#2e2836 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6a2e35', endColorstr='#2e2836',GradientType=1 );
+}
+/*
+* ALIGNMENT
+*/
+.align-left{
+	text-align: left;
+}
+.align-center{
+	text-align: center;
+}
+.align-right{
+	text-align: right;
+}
+
+/*
+* DISPLAY
+*/
+.display-block{
+	display: block;
+}
+.display-none{
+	display: none;
+}
+.lg-display-none{
+	display: none;
+}
+.md-display-none{
+	display: none;
+}
+.sm-display-none{
+	display: none;
+}
+
+.visible{
+	visibility: visible;
+}
+.invisible{
+	visibility: hidden;
+}
+
+/*
+* CIRCLES
+*/
+
+/*
+* BUTTONS
+*/
+
+.btn-line-red{
+    color: $colorFour;
+    border-color: $colorFour;
+	background: transparent;
+}
+
+/*
+* Random
+*/
